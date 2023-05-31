@@ -7,5 +7,5 @@ import { Component } from '@angular/core';
 })
 export class MenuComponent {
   opciones : Array<String>;
-  constructor(){this.opciones = ['inicio','acerca','contacto']}
+  constructor(){this.opciones = ['inicio','acerca','contacto','datos','formulario','mostrar']}
 }
